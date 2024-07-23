@@ -9,4 +9,6 @@
   #points.txt is value for each points. We originaly set it to 2 dimension (x,y)
   <br>
   #inputs are changealb in "config.txt" and "points.text" files. 
-  
+
+# Link to Results of execution time test
+  #https://docs.google.com/spreadsheets/d/1GgVedHsj52k6xaH4E3C-Pa7K3fRvMbHRvUy9S5bJcpU/edit?usp=drivesdk
